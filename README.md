@@ -14,9 +14,13 @@ Analyze overall sales performance
 Identify top-performing products and salespersons
 Understand regional sales distribution
 Track sales trends over time
+
 🛠️ Tools & Technologies
+
 Python (Pandas) – Data cleaning & preprocessing
+
 Power BI – Dashboard creation & visualization
+
 DAX – Data modeling and calculated measures
 
 🔄 Data Processing Workflow:
@@ -31,26 +35,13 @@ Created measures like Total Sales, Total Orders, Total Boxes
 Aggregations and calculations for insights
 Built interactive dashboard with filters and visuals
 
-📊 Dashboard Features:
-
-Total Sales: 19792K
-Total Orders: 3K
-Total Boxes Sold: 540K
-
-Visualizations:
-
-Sales by Product
-Sales by Country (Map View)
-Sales by Year (Donut Chart)
-Orders by Sales Person
-Interactive Filters (Country, Quarter)
 
 📈 Key Insights:
 
-Certain products consistently generate higher sales
-Sales performance varies significantly across countries
-Top salespersons contribute a large portion of total orders
-Sales trends show variation across different years
+Certain products consistently generate higher sales.
+Sales performance varies significantly across countries.
+Top salespersons contribute a large portion of total orders.
+Sales trends show variation across different years.
 
 👩‍💻 Author
 
